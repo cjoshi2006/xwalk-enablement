@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/chjoshi-xwalk-enablement/:/msil",
+    "/content/chjoshi-xwalk-enablement/:/",
     "/content/chjoshi-xwalk-enablement/configuration:/.helix/config.json"
   ]
 }
