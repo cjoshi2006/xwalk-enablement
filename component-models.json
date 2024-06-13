@@ -205,6 +205,19 @@
       }
 
         ]
+  },
+  {
+    "id": "quote-nexa",
+    "fields": [
+      {
+        "component": "text-input",
+        "name": "quote",
+        "value": "",
+        "label": "Quote",
+        "valueType": "string"
+      }
+
+    ]
   }
 
 ]
