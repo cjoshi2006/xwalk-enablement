@@ -190,7 +190,7 @@
     "id": "quote-ch",
     "fields": [
       {
-        "component": "richText",
+        "component": "text-input",
         "name": "quote",
         "value": "",
         "label": "Quote",
