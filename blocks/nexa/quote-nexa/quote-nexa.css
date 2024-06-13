@@ -9,7 +9,6 @@
 .block.quote blockquote {
   margin: 16px;
   text-indent: 0;
-  color:red;
 }
 
 .block.quote > div:last-child > div {
