@@ -191,7 +191,7 @@
     "fields": [
       {
         "component": "richText",
-        "name": "quote-ch",
+        "name": "quote",
         "value": "",
         "label": "Quote",
         "valueType": "string"
