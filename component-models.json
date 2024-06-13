@@ -202,8 +202,26 @@
         "name": "author",
         "label": "Author",
         "value": ""
-      }
-    ]
+      },
+      {
+        "id": "quote-nexa",
+        "fields": [
+          {
+            "component": "text-input",
+            "name": "quote",
+            "value": "",
+            "label": "Quote",
+            "valueType": "string"
+          },
+          {
+            "component": "text-input",
+            "valueType": "string",
+            "name": "author",
+            "label": "Author",
+            "value": ""
+          }
+
+        ]
   }
 
 ]
